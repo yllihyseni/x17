@@ -93,17 +93,17 @@
 	/*  3. GOOGLE MAP
 	/* ----------------------------------------------------------- */ 
 		    
-	    $('#mu-google-map').click(function () {
+	    // $('#mu-google-map').click(function () {
 
-		    $('#mu-google-map iframe').css("pointer-events", "auto");
+		//     $('#mu-google-map iframe').css("pointer-events", "auto");
 
-		});
+		// });
 		
-		$("#mu-google-map").mouseleave(function() {
+		// $("#mu-google-map").mouseleave(function() {
 
-		  $('#mu-google-map iframe').css("pointer-events", "none"); 
+		//   $('#mu-google-map iframe').css("pointer-events", "none"); 
 
-		});
+		// });
 		
 		
 
@@ -111,14 +111,14 @@
 	/*  4. READER TESTIMONIALS (SLICK SLIDER)
 	/* ----------------------------------------------------------- */
 
-		$('.mu-testimonial-slide').slick({
-			arrows: false,
-			dots: true,
-			infinite: true,
-			speed: 500,
-			autoplay: true,
-			cssEase: 'linear'
-		});
+		// $('.mu-testimonial-slide').slick({
+		// 	arrows: false,
+		// 	dots: true,
+		// 	infinite: true,
+		// 	speed: 500,
+		// 	autoplay: true,
+		// 	cssEase: 'linear'
+		// });
 
 	/* ----------------------------------------------------------- */
 	/*  5. MOBILE MENU CLOSE 
